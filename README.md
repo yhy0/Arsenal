@@ -14,7 +14,7 @@ python webScan.py --host xxx.xxx.xxx.xxx/24
 
 python webScan.py --host xxx.xxx.xxx.xxx
 
-![image-20201218151313574](image-20201218151313574.png)
+![image-20201218151313574](images/webScan.png)
 
 
 
